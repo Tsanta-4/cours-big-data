@@ -1,0 +1,10 @@
+			BIG DATA
+
+- avoir une grosse Volumetrie de données
+- Parallélisation de stockage de données
+- Paralélisation en terme de traitement de données
+- spécifisation des outils spécials pour le big data (ex: ELASTIC SEARCH KIMBANA)
+
+- Paralélisation: gain de traitement de données et analyse de donnée, facilite le processus et mieux gérer les données
+- On se dit: je dois mettre le même temps de traiter le données
+- Action automatique qui consiste à découper les information, plus il y a de noeuds plus on est rapide lors du traitement des données 

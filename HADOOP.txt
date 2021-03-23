@@ -1,0 +1,10 @@
+							Big data: HADOOP
+
+- Panne de serveur
+- Cout
+- Regrouper les resultats d'analyse
+- Systeme de stockage et d'analyse partagé
+- Ecosysteme Hadooop
+- Stockage de Fichiers Distribués : HDFS ou Hadoop Dostributed File System
+- Spark: parralélise en mémoire les informations
+- Data ingenieur: Responsable de traitement automatique des données, manipuler les outils d'intégrations

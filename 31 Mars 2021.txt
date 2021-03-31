@@ -1,0 +1,18 @@
+Savoir sujet et le groupe le 7 Avril
+
+
+							SPARK
+
+- Framework de traitments big data open source
+- Spark propose un fraework complet pour l'ANALYSE DES DONNées
+	* Format de donées différents : texte graphe, ...
+	* Type de donnée: batch, flux, temps réel
+- Point de départ: limites de Map Reduce avec des requêtes complexes et avec du temps réel
+- OBJECTIF: créer un nouveau framework utilisant la parallélisation massive (memoire, disque)
+
+
+- En 2014, spark a gagné le DAYTONA GRAYSORT CHALLENGE
+	* 206 machines utilisées
+	* 23 minutes de teomps d'exécution
+	* Utilise la MEMOIRE pour la répartition des traitements, utilise les disques uniquement si plus de mémoire disponible
+	* 3 fois plus rapides que HADOOP : Parallélisation sur la mémoire ViVE

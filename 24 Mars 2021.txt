@@ -1,0 +1,17 @@
+						EXAMEN BIG DATA
+			Projet: Type Machine learning ou projet big data Faire un rapport
+			Ojectifs: pratiquer avec les outils 
+
+1) Projet Machine learning : créer des statistiques
+Presenter les besoins, les outils (pourquoi les outils)
+
+2) Projet bigdata
+
+				---------CE QUE DOIT CONTENIR LE RAPPORT DE PROJET------------
+-Presenter les problèmatiques à traiter: expliquer ce qu'on souhaite faire (ex: consommation)
+-Repartition du travail dans votre équipe (qui a fait quoi)
+-Presentation de l'architecture (ex: si on utilise kibana) identifier les processus avec les étapes (ex: j'utilise python pour collecter les données)
+	Pourquoi choisir cette architecture (Justification)
+-Tableau précisant les avantages et les inconvenients des outils qu'on a utilisé
+-Présentation du classement pour le sujet Machine learning (challenge kagle) FAUT GERER LE SUJET
+	Savoir optimiser les solutions 

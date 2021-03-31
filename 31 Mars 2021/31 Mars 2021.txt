@@ -1,0 +1,35 @@
+Savoir sujet et le groupe le 7 Avril
+
+
+							SPARK
+
+- Framework de traitments big data open source
+- Spark propose un fraework complet pour l'ANALYSE DES DONNées
+	* Format de donées différents : texte graphe, ...
+	* Type de donnée: batch, flux, temps réel
+- Point de départ: limites de Map Reduce avec des requêtes complexes et avec du temps réel
+- OBJECTIF: créer un nouveau framework utilisant la parallélisation massive (memoire, disque)
+
+
+- En 2014, spark a gagné le DAYTONA GRAYSORT CHALLENGE
+	* 206 machines utilisées
+	* 23 minutes de teomps d'exécution
+	* Utilise la MEMOIRE pour la répartition des traitements, utilise les disques uniquement si plus de mémoire disponible
+	* 3 fois plus rapides que HADOOP : Parallélisation sur la mémoire ViVE
+
+						ARCHITECTURE B!G DATA
+
+
+- C'est une réponse à un besoin particulier
+- Une architecture ne permet pas de répondre à tous les besoins
+- Principales architectures Big data
+- Critères de sélection
+
+- BACTCH:
+	* Stockage des données brutes pour restockage si besoin
+	* Vision client fla plus fraiche possible
+	* Solution indépendante des technologie une multitude: stockage(NOsql, HDFS,..), couche batch(hadoop, Mapreduce, spark)
+				---------Les différentes architecture---------
+1) Data lake: stockage des données en parrallèle
+2) Lambda: traitement des données en batch (traitement d'une quantité n de données en un temps précis) ou en temps réel, On n'impose pas le choix d'outils
+2) Smack : sous ensemble de lambda avec précision des outils de traitements de donnés
